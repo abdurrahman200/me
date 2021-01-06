@@ -116,6 +116,7 @@ ul a:hover{
     background-color: #ff7167;
     color: #fff;
     font-size: 16px;
+    text-decoration: none;
 }
 /* image */
 .thumbnail{
@@ -216,7 +217,7 @@ section.Exprience .boxText{
 section.Exprience .boxText h3{
     font-style: normal;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 600;
     text-transform: capitalize;
 }
 section.Exprience .boxTex p {
@@ -267,6 +268,10 @@ section.news-letter .container{
     background-color: #ff7167;
     color: #fff;
     margin-right: 30px;
+}
+.center .btn2 :hover{
+    background-color: #ffca67;
+    color: #fff;
 }
 /* Style the footer */
 .footer {
