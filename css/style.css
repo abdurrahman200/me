@@ -6,6 +6,7 @@
 }
 body {
     color: #363958;
+    
 }
 /* Create screen  */
 .top-banner{
@@ -148,7 +149,7 @@ section.project .container{
 section.project h2{
     font-family: Bebas Neue;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 300;
     font-size: 48px;
     line-height: 48px;
 }
@@ -172,7 +173,7 @@ section.Exprience .container{
 section.Exprience h2{
     font-family: Bebas Neue;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 300;
     font-size: 48px;
     line-height: 48px;
 }
