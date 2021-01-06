@@ -7,6 +7,11 @@
 body {
     color: #363958;
 }
+/* Create screen  */
+.top-banner{
+    width: 85%;
+    margin: 0 auto;
+}
 /* Style the navbar */
 .topnav{
     overflow: hidden;
@@ -48,11 +53,7 @@ ul a:hover{
         padding:0 10px;
     }
 }
-/* Create screen  */
-.top-banner{
-    width: 85%;
-    margin: 0 auto;
-}
+
 /* Create Two equal columns that floats next to each other */
 .half-column {
     float: left;
