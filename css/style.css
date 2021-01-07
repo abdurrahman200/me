@@ -118,6 +118,17 @@ ul a:hover{
     font-size: 16px;
     text-decoration: none;
 }
+.btn {
+    width: 180px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    background-color: #0e5a8d;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
 /* image */
 .thumbnail{
     margin-bottom: 30px;
@@ -161,6 +172,7 @@ section.project span{
     color: #FF8367;
     font-weight: 300;
 }
+
 /* Expriaence */
 section.Exprience {
     padding: 100px 0px;
